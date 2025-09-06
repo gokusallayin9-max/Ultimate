@@ -8447,3 +8447,48 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [06Sep2025 21:51:57.315] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d01235d3: RandomSpreadSearchWorker succeeded with 343 radius, 1 samples
 [06Sep2025 21:52:01.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Set own game mode to Spectator Mode]
 [06Sep2025 21:52:06.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex has made the advancement [Jaws]
+[06Sep2025 21:52:17.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> he perdido tus respectos?
+[06Sep2025 21:52:57.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> ajaja nuna me as respetado no se que perdiste
+[06Sep2025 21:53:06.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Teleported Adonis_MB to 1246.500000, 61.500000, -52.500000]
+[06Sep2025 21:53:34.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Set own game mode to Survival Mode]
+[06Sep2025 21:54:14.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to -906.500000, 65.500000, -1648.500000]
+[06Sep2025 21:55:39.598] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30659, l='ServerLevel[world]', x=-880.50, y=73.00, z=-1705.50]
+[06Sep2025 21:55:43.949] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30668, l='ServerLevel[world]', x=-887.50, y=69.00, z=-1704.50]
+[06Sep2025 21:55:59.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> que yo nunca te he respectado?
+[06Sep2025 21:56:05.148] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30739, l='ServerLevel[world]', x=-889.50, y=70.00, z=-1740.50]
+[06Sep2025 21:56:11.598] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30825, l='ServerLevel[world]', x=-897.50, y=71.00, z=-1738.50]
+[06Sep2025 21:56:16.681] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d01235d3: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[06Sep2025 21:56:16.712] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d01235d3: RandomSpreadSearchWorker succeeded with 187 radius, 1 samples
+[06Sep2025 21:56:20.800] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30901, l='ServerLevel[world]', x=-890.50, y=70.00, z=-1742.50]
+[06Sep2025 21:56:21.559] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30938, l='ServerLevel[world]', x=-890.50, y=70.00, z=-1740.50]
+[06Sep2025 21:56:22.870] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[06Sep2025 21:56:23.149] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30977, l='ServerLevel[world]', x=-887.50, y=69.00, z=-1706.50]
+[06Sep2025 21:56:23.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Set own game mode to Spectator Mode]
+[06Sep2025 21:56:33.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Set own game mode to Survival Mode]
+[06Sep2025 21:57:04.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adonis_MB has completed the challenge [Plumber's Plunder]
+[06Sep2025 21:57:08.793] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/31702, l='ServerLevel[world]', x=-1103.50, y=47.00, z=-1693.50]
+[06Sep2025 21:57:12.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> ve ven
+[06Sep2025 21:57:12.622] [Worker-Main237/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[06Sep2025 21:57:28.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to Adonis_MB]
+[06Sep2025 21:57:44.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> respobndes mi pregunta?
+[06Sep2025 21:58:06.710] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex has reached the goal [Ceci n'est pas un blaze]
+[06Sep2025 21:58:08.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex has completed the challenge [Plumber's Plunder]
+[06Sep2025 21:59:08.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> no se lo haces?
+[06Sep2025 21:59:23.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex was slain by Adonis_MB
+[06Sep2025 21:59:40.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> no se porque te mante si solo le di a vailar
+[06Sep2025 21:59:43.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> bailar
+[06Sep2025 21:59:52.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> ah, la verdadera pregunta es
+[06Sep2025 22:00:03.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> cuando te he faltado el respecto xd
+[06Sep2025 22:00:22.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> pues siempre que tienes la oportunidad
+[06Sep2025 22:00:22.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex moved too quickly! -22.120691742301233,-4.983096569775853,0.0021207947706898267
+[06Sep2025 22:00:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> no se de que hablas
+[06Sep2025 22:00:40.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> y no me lo tomo a mal es divertido
+[06Sep2025 22:00:57.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> que es una falta de respecto para ti?
+[06Sep2025 22:00:58.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> no me molesta porque no lo haces con malas intenciones
+[06Sep2025 22:01:04.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex moved too quickly! 3.0336322508929925,3.503202484247879,-19.144301498916775
+[06Sep2025 22:01:28.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to -735.500000, 72.500000, -1526.500000]
+[06Sep2025 22:01:58.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to -1223.500000, 63.500000, -1688.500000]
+[06Sep2025 22:02:14.343] [Worker-Main529/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Sep2025 22:02:14.343] [Worker-Main529/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Sep2025 22:02:14.343] [Worker-Main529/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Sep2025 22:02:14.343] [Worker-Main529/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:

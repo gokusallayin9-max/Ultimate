@@ -1358,6 +1358,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
+    "criteria": {
+      "requirement": "2025-09-06 21:57:04 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_recipe_result": "2025-07-24 00:10:36 +0000"
@@ -2187,6 +2193,7 @@
   },
   "repurposed_structures:temples": {
     "criteria": {
+      "in_temple_nether_wasteland": "2025-09-06 21:53:26 +0000",
       "in_temple_nether_basalt": "2025-09-01 20:33:35 +0000"
     },
     "done": false

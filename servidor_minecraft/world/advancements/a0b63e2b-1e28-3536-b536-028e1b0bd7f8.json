@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 21:55:37 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-07-27 01:39:21 +0000"
@@ -587,6 +593,12 @@
     },
     "done": true
   },
+  "vinery:cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 21:55:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-27 00:08:53 +0000"
@@ -596,6 +608,12 @@
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
       "has_string": "2025-07-26 23:18:55 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/skilltree/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-06 21:58:19 +0000"
     },
     "done": true
   },
@@ -920,6 +938,12 @@
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-07-26 17:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-06 21:58:19 +0000"
     },
     "done": true
   },
@@ -1265,6 +1289,12 @@
   "constructionwand:recipes/tools/iron_wand": {
     "criteria": {
       "has_item": "2025-07-26 18:48:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
+    "criteria": {
+      "requirement": "2025-09-06 21:58:08 +0000"
     },
     "done": true
   },
@@ -2105,6 +2135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 21:55:37 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/wood/birch_banister": {
     "criteria": {
       "has_item": "2025-07-29 00:33:57 +0000"
@@ -2114,6 +2150,12 @@
   "blue_skies:recipes/blue_skies_combat/lunar_spear": {
     "criteria": {
       "has_item": "2025-07-26 22:53:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-09-06 21:52:06 +0000"
     },
     "done": true
   },
@@ -2207,12 +2249,6 @@
       "enchanted_item": "2025-08-05 02:50:31 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-09-06 21:49:16 +0000"
-    },
-    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
@@ -2773,6 +2809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 21:55:37 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2025-07-26 17:57:36 +0000",
@@ -2795,6 +2837,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-07-26 19:11:57 +0000",
+      "entered_fishing_ship": "2025-09-06 21:53:35 +0000",
       "entered_large_dungeon": "2025-07-26 23:55:52 +0000",
       "entered_castle": "2025-07-29 03:22:17 +0000",
       "entered_watch_tower": "2025-07-29 03:17:07 +0000",
@@ -2865,6 +2908,12 @@
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-07-26 17:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 21:55:37 +0000"
     },
     "done": true
   },
@@ -3339,6 +3388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 21:55:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-26 23:18:55 +0000"
@@ -3573,6 +3628,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 21:55:37 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/double_hook": {
     "criteria": {
       "has_items": "2025-07-26 17:57:35 +0000"
@@ -3618,6 +3679,12 @@
   "deep_aether:recipes/building_blocks/holystone_pillar_up_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-09-03 19:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-06 21:58:19 +0000"
     },
     "done": true
   },
@@ -3699,6 +3766,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/cooking/blazing_chili": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-06 21:58:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-26 19:13:06 +0000"
@@ -3750,6 +3823,12 @@
   "blue_skies:recipes/blue_skies_combat/cherry_spear": {
     "criteria": {
       "has_item": "2025-07-26 22:53:24 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-09-06 21:58:06 +0000"
     },
     "done": true
   },
@@ -3924,6 +4003,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-26 17:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 21:55:37 +0000"
     },
     "done": true
   },
@@ -4110,6 +4195,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-29 01:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 21:55:37 +0000"
     },
     "done": true
   },
@@ -5033,6 +5124,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 21:55:37 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-07-26 18:46:10 +0000"
@@ -5210,6 +5307,12 @@
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2025-07-29 00:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 21:55:37 +0000"
     },
     "done": true
   },
@@ -5478,6 +5581,12 @@
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-07-26 17:57:36 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 21:55:37 +0000"
     },
     "done": true
   },
@@ -9040,6 +9149,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-09-03 23:30:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-06 21:55:37 +0000"
     },
     "done": true
   },
