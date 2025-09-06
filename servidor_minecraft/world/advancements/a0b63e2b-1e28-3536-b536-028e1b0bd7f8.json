@@ -2171,6 +2171,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-09-06 21:10:20 +0000"
+    },
+    "done": false
+  },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-07-26 22:53:24 +0000"
@@ -5378,6 +5384,12 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-09-06 21:07:37 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-07-26 17:57:36 +0000"
@@ -6518,6 +6530,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-26 18:27:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-09-06 21:07:37 +0000"
     },
     "done": true
   },
@@ -8553,6 +8571,7 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:ash_barrens": "2025-07-27 01:25:12 +0000",
+      "incendium:quartz_flats": "2025-09-06 21:07:37 +0000",
       "incendium:toxic_heap": "2025-07-27 01:20:53 +0000",
       "incendium:withered_forest": "2025-07-27 01:11:52 +0000"
     },
@@ -9495,6 +9514,12 @@
       "has_raw_copper": "2025-07-26 18:30:21 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-09-06 21:09:15 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {

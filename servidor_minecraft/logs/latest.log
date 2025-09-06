@@ -8344,3 +8344,27 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [06Sep2025 21:00:20.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> para farmear al romperlos
 [06Sep2025 21:00:48.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> ya que son legendarios y al romperlos me dan esencias legendarias para mejorar mas cosas
 [06Sep2025 21:00:49.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> que
+[06Sep2025 21:00:56.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> ah
+[06Sep2025 21:00:58.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> este
+[06Sep2025 21:01:04.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> mira la mochila
+[06Sep2025 21:01:12.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> no se cual es el mio pero dale
+[06Sep2025 21:01:46.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> ahi en la mochila hay 2 de los buenos
+[06Sep2025 21:02:03.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> me quedo con este
+[06Sep2025 21:02:05.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> coje uno y el otro dejalo ahi para que se llene la mochila sola
+[06Sep2025 21:02:20.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> la mochilla ali
+[06Sep2025 21:02:22.710] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[06Sep2025 21:02:22.711] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdc524b4$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[06Sep2025 21:02:22.735] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[06Sep2025 21:02:23.049] [dimthread_server_the_nether/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[06Sep2025 21:02:23.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> llevatela
+[06Sep2025 21:02:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Teleported Crystallex to Adonis_MB]
+[06Sep2025 21:03:01.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> ven wey
+[06Sep2025 21:03:07.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> a buscar nwthwrita
+[06Sep2025 21:04:46.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to 83.500000, 34.500000, 161.500000]
+[06Sep2025 21:04:47.327] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[06Sep2025 21:05:02.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to -45.500000, 38.500000, 261.500000]
+[06Sep2025 21:05:03.653] [dimthread_server_the_nether/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[06Sep2025 21:06:55.308] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityDropBear['Jesus the Thirsty'/8073, l='ServerLevel[world]', x=11.15, y=44.50, z=361.85] died: Jesus the Thirsty was shot by Crystallex
+[06Sep2025 21:07:36.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to 65.500000, 32.500000, 362.500000]
+[06Sep2025 21:07:37.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex has made the advancement [Hellish Paradise]
+[06Sep2025 21:07:37.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex has made the advancement [The Floor is Tears]
