@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "iter_rpg:economy": {
+    "criteria": {
+      "economy": "2025-09-06 21:11:09 +0000"
+    },
+    "done": true
+  },
   "upgradednetherite:recipes/essences/fire_essence": {
     "criteria": {
       "has_ghast_tear": "2025-07-26 23:48:02 +0000"
@@ -2173,7 +2179,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-09-06 21:10:20 +0000"
+      "!bit13": "2025-09-06 21:19:42 +0000",
+      "!bit14": "2025-09-06 21:19:42 +0000",
+      "!bit11": "2025-09-06 21:19:42 +0000",
+      "!bit12": "2025-09-06 21:19:42 +0000",
+      "!bit10": "2025-09-06 21:19:42 +0000",
+      "!bit9": "2025-09-06 21:19:42 +0000",
+      "!bit8": "2025-09-06 21:19:42 +0000",
+      "!bit7": "2025-09-06 21:19:42 +0000",
+      "!bit6": "2025-09-06 21:19:42 +0000",
+      "!bit5": "2025-09-06 21:19:42 +0000",
+      "!bit4": "2025-09-06 21:19:42 +0000",
+      "!bit3": "2025-09-06 21:19:42 +0000",
+      "!bit2": "2025-09-06 21:19:42 +0000",
+      "!bit1": "2025-09-06 21:19:42 +0000",
+      "!bit0": "2025-09-06 21:19:42 +0000"
     },
     "done": false
   },
@@ -5299,6 +5319,12 @@
       "has_raw_copper": "2025-07-26 18:30:21 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_nether_bricks": "2025-09-06 21:19:30 +0000"
+    },
+    "done": false
   },
   "aether:recipes/building_blocks/icestone_stairs": {
     "criteria": {
