@@ -8074,3 +8074,92 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [06Sep2025 18:57:38.544] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundSeenAdvancementsPacket$Action
 [06Sep2025 18:57:38.547] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
 [06Sep2025 18:57:38.550] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+[06Sep2025 20:28:26.905] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/serializer/json/JSONOptions$HoverEventValueMode
+[06Sep2025 20:28:26.906] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/serializer/json/JSONOptions$ShowItemHoverDataMode
+[06Sep2025 20:28:26.932] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/event/ClickEvent$Action
+[06Sep2025 20:28:26.935] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/format/TextDecoration
+[06Sep2025 20:28:26.943] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/ComponentIteratorFlag
+[06Sep2025 20:28:26.961] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/format/TextDecoration$State
+[06Sep2025 20:28:26.962] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/util/TriState
+[06Sep2025 20:28:37.626] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[06Sep2025 20:28:37.855] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[06Sep2025 20:29:13.198] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 210
+[06Sep2025 20:29:13.209] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[06Sep2025 20:29:13.215] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[06Sep2025 20:29:13.216] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[06Sep2025 20:29:13.222] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[06Sep2025 20:29:13.229] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[06Sep2025 20:29:13.232] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[06Sep2025 20:29:13.234] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[06Sep2025 20:29:13.236] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[06Sep2025 20:29:13.238] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[06Sep2025 20:29:13.241] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[06Sep2025 20:29:13.242] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[06Sep2025 20:29:45.322] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[06Sep2025 20:29:45.332] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[06Sep2025 20:29:54.032] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[06Sep2025 20:29:54.099] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/blueprint/core/endimator/PlayableEndimation$LoopType
+[06Sep2025 20:29:54.111] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/velocitypowered/natives/util/NativeCodeLoader$Status
+[06Sep2025 20:29:54.130] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/velocitypowered/natives/util/BufferPreference
+[06Sep2025 20:29:54.429] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7e7d9c57
+[06Sep2025 20:29:54.609] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/player/SpinAttackType
+[06Sep2025 20:29:54.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crystallex[/127.181.95.5:35143] logged in with entity id 1 at (-722.3056231910773, 56.0, -1130.3811059435998)
+[06Sep2025 20:29:54.696] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[06Sep2025 20:29:54.717] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ancient_Ancient_Remnant_Entity$AttackMode
+[06Sep2025 20:29:54.737] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/Starbuncle$StarbuncleGoalState
+[06Sep2025 20:29:54.749] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/dummmmmmy/common/DummyMobType
+[06Sep2025 20:29:54.752] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/util/base/SkiesIllagerBossEntity$BossSpellColor
+[06Sep2025 20:29:54.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[06Sep2025 20:29:54.758] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/EntityMimicOctopus$MimicState
+[06Sep2025 20:29:54.759] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Nameless_Sorcerer_Entity$SpellType
+[06Sep2025 20:29:54.761] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/AmethystGolem$AmethystGolemGoalState
+[06Sep2025 20:29:54.762] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/The_Leviathan/The_Leviathan_Entity$AttackMode
+[06Sep2025 20:29:54.765] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/boss/KnightPhantom$Formation
+[06Sep2025 20:29:54.773] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/Pet/Modern_Remnant_Entity$AttackMode
+[06Sep2025 20:29:54.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/Ancient_Remnant/Ancient_Remnant_Entity$AttackMode
+[06Sep2025 20:29:54.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/Pet/The_Baby_Leviathan_Entity$AttackMode
+[06Sep2025 20:29:54.780] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/grottol/EntityGrottol$EnumDeathType
+[06Sep2025 20:29:54.790] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/naga/EntityNaga$EnumNagaMovement
+[06Sep2025 20:29:54.894] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Crystallex
+[06Sep2025 20:29:54.895] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Crystallex
+[06Sep2025 20:29:54.895] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Crystallex
+[06Sep2025 20:29:54.896] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Crystallex
+[06Sep2025 20:29:54.909] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Crystallex
+[06Sep2025 20:29:54.911] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Crystallex
+[06Sep2025 20:29:54.911] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Crystallex
+[06Sep2025 20:29:55.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex joined the game
+[06Sep2025 20:29:55.047] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundPlayerPositionPacket$RelativeArgument
+[06Sep2025 20:29:55.059] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilityHandler
+[06Sep2025 20:29:55.073] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilitySection$AbilitySectionType
+[06Sep2025 20:29:55.172] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/control/MoveControl$Operation
+[06Sep2025 20:29:55.191] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[06Sep2025 20:29:55.206] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Action
+[06Sep2025 20:29:55.408] [Server thread/WARN] [solapplepie/]: Invalid attribute specified in config: generic.speed
+[06Sep2025 20:29:55.466] [Server thread/INFO] [Jade/]: Syncing config to Crystallex (a0b63e2b-1e28-3536-b536-028e1b0bd7f8)
+[06Sep2025 20:29:55.496] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Crystallex...
+[06Sep2025 20:29:55.496] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Sep2025 20:29:55.501] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Crystallex
+[06Sep2025 20:29:55.598] [Server thread/INFO] [mixin/]: Mixing MixinEnchantmentHelper from enigmaticlegacy.mixins.json into net.minecraft.world.item.enchantment.EnchantmentHelper
+[06Sep2025 20:29:56.078] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aetherteam/nitrogen/capability/INBTSynchable$Direction
+[06Sep2025 20:29:56.096] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: true
+[06Sep2025 20:29:56.112] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[06Sep2025 20:29:56.114] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[06Sep2025 20:29:56.216] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/border/BorderStatus
+[06Sep2025 20:29:56.254] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib3/core/builder/ILoopType$EDefaultLoopTypes
+[06Sep2025 20:29:56.256] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib3/core/PlayState
+[06Sep2025 20:29:56.256] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib3/core/AnimationState
+[06Sep2025 20:29:56.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib3/core/easing/EasingType
+[06Sep2025 20:29:56.382] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/chunk/LevelChunk$EntityCreationType
+[06Sep2025 20:29:56.566] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[06Sep2025 20:29:56.581] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[06Sep2025 20:29:56.583] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[06Sep2025 20:29:56.592] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[06Sep2025 20:29:56.593] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[06Sep2025 20:29:56.703] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[06Sep2025 20:29:56.859] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
+[06Sep2025 20:29:57.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[06Sep2025 20:29:58.209] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/savage_and_ravage/common/entity/ai/goal/ImprovedCrossbowGoal$CrossbowState
+[06Sep2025 20:29:58.212] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadows/apotheosis/ench/table/ApothEnchantmentMenu$Arcana
+[06Sep2025 20:29:59.470] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[06Sep2025 20:30:02.296] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[06Sep2025 20:30:22.152] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/dummmmmmy/common/DamageType
