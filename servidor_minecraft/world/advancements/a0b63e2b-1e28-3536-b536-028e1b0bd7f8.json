@@ -863,6 +863,12 @@
     },
     "done": true
   },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-09-06 21:20:47 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-07-26 17:57:37 +0000"
@@ -1083,7 +1089,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-08-14 02:19:13 +0000",
       "minecraft:nether_wastes": "2025-07-27 01:14:23 +0000",
-      "minecraft:basalt_deltas": "2025-09-04 01:53:21 +0000"
+      "minecraft:basalt_deltas": "2025-09-04 01:53:21 +0000",
+      "minecraft:warped_forest": "2025-09-06 21:22:25 +0000"
     },
     "done": false
   },
@@ -2179,21 +2186,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-09-06 21:19:42 +0000",
-      "!bit14": "2025-09-06 21:19:42 +0000",
-      "!bit11": "2025-09-06 21:19:42 +0000",
-      "!bit12": "2025-09-06 21:19:42 +0000",
-      "!bit10": "2025-09-06 21:19:42 +0000",
-      "!bit9": "2025-09-06 21:19:42 +0000",
-      "!bit8": "2025-09-06 21:19:42 +0000",
-      "!bit7": "2025-09-06 21:19:42 +0000",
-      "!bit6": "2025-09-06 21:19:42 +0000",
-      "!bit5": "2025-09-06 21:19:42 +0000",
-      "!bit4": "2025-09-06 21:19:42 +0000",
-      "!bit3": "2025-09-06 21:19:42 +0000",
-      "!bit2": "2025-09-06 21:19:42 +0000",
-      "!bit1": "2025-09-06 21:19:42 +0000",
-      "!bit0": "2025-09-06 21:19:42 +0000"
+      "target": "2025-09-06 21:30:19 +0000"
     },
     "done": false
   },
@@ -5608,6 +5601,12 @@
       "log_spam_fixer": "2025-07-26 17:57:44 +0000"
     },
     "done": false
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-09-06 21:20:59 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {

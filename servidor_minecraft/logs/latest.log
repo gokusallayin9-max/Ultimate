@@ -8385,3 +8385,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [06Sep2025 21:20:29.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to 346.500000, 33.500000, 419.500000]
 [06Sep2025 21:20:42.898] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
 [06Sep2025 21:20:47.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex has made the advancement [Arghh, Where be Me Ship?]
+[06Sep2025 21:22:24.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to 470.500000, 33.500000, 550.500000]
+[06Sep2025 21:22:44.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to 523.500000, 16.500000, 550.500000]
+[06Sep2025 21:25:48.126] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Veril the Withered'/15374, l='ServerLevel[world]', x=543.50, y=16.00, z=437.67] died: Veril the Withered was slain by Crystallex
+[06Sep2025 21:30:26.995] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[06Sep2025 21:30:59.021] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[06Sep2025 21:31:40.618] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[06Sep2025 21:31:40.618] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
