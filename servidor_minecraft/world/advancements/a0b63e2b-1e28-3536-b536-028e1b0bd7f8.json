@@ -1,4 +1,10 @@
 {
+  "oriacs:recipes/combat/chainmembrane_chestplate": {
+    "criteria": {
+      "has_phantom_membrane": "2025-09-06 21:46:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/red_archwood_wood": {
     "criteria": {
       "has_journal": "2025-07-26 17:57:37 +0000"
@@ -92,6 +98,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-07-26 18:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-09-06 21:34:34 +0000"
     },
     "done": true
   },
@@ -776,6 +788,12 @@
   "twilightforest:magic_map": {
     "criteria": {
       "magic_map": "2025-08-05 03:25:32 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-09-06 21:44:50 +0000"
     },
     "done": true
   },
@@ -1918,6 +1936,12 @@
     },
     "done": true
   },
+  "oriacs:recipes/combat/chainmembrane_leggings": {
+    "criteria": {
+      "has_phantom_membrane": "2025-09-06 21:46:35 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/nagastone/cracked_nagastone_stairs_right": {
     "criteria": {
       "has_item": "2025-08-05 03:12:55 +0000"
@@ -2186,7 +2210,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-09-06 21:30:19 +0000"
+      "target": "2025-09-06 21:49:16 +0000"
     },
     "done": false
   },
@@ -2223,6 +2247,12 @@
   "blue_skies:recipes/blue_skies_tools/ventium_shears": {
     "criteria": {
       "has_item": "2025-07-26 22:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-09-06 21:34:34 +0000"
     },
     "done": true
   },
@@ -2518,6 +2548,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-29 01:43:28 +0000"
+    },
+    "done": true
+  },
+  "oriacs:recipes/combat/chainmembrane_boots": {
+    "criteria": {
+      "has_phantom_membrane": "2025-09-06 21:46:35 +0000"
     },
     "done": true
   },
@@ -4197,6 +4233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-09-06 21:34:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-07-29 01:39:51 +0000"
@@ -4356,6 +4398,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-26 17:57:36 +0000"
+    },
+    "done": true
+  },
+  "oriacs:recipes/combat/chainmembrane_helmet": {
+    "criteria": {
+      "has_phantom_membrane": "2025-09-06 21:46:35 +0000"
     },
     "done": true
   },
@@ -4769,6 +4817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-09-06 21:34:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2025-07-26 23:56:52 +0000"
@@ -4865,6 +4919,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/mega_sponge": {
+    "criteria": {
+      "has_the_recipe": "2025-09-06 21:47:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-27 01:48:57 +0000"
@@ -4946,6 +5006,12 @@
   "twilightforest:recipes/twilightforest/wood/oak_banister": {
     "criteria": {
       "has_item": "2025-07-29 01:59:41 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/undead_eye_recipe": {
+    "criteria": {
+      "soul": "2025-09-06 21:45:46 +0000"
     },
     "done": true
   },
@@ -5418,6 +5484,12 @@
   "morevillagers:recipes/blueprint_table": {
     "criteria": {
       "has_paper": "2025-07-26 18:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-09-06 21:34:34 +0000"
     },
     "done": true
   },
@@ -8042,9 +8114,27 @@
     },
     "done": true
   },
+  "endrem:main/undead_eye": {
+    "criteria": {
+      "undead_eye": "2025-09-06 21:46:50 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/mega_sponge": {
+    "criteria": {
+      "has_items": "2025-09-06 21:47:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-26 17:57:37 +0000"
+    },
+    "done": true
+  },
+  "oriacs:recipes/tools/umbrella": {
+    "criteria": {
+      "has_phantom_membrane": "2025-09-06 21:46:35 +0000"
     },
     "done": true
   },
@@ -8398,6 +8488,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "flint_knife": "2025-07-29 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-09-06 21:44:36 +0000"
     },
     "done": true
   },
@@ -8763,6 +8859,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-05 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-09-06 21:34:34 +0000"
     },
     "done": true
   },
@@ -9242,6 +9344,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-07-27 01:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-09-06 21:44:36 +0000"
     },
     "done": true
   },

@@ -8392,3 +8392,58 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [06Sep2025 21:30:59.021] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
 [06Sep2025 21:31:40.618] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
 [06Sep2025 21:31:40.618] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[06Sep2025 21:33:41.822] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[06Sep2025 21:33:49.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> tpeate
+[06Sep2025 21:34:13.127] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66e1f220
+[06Sep2025 21:34:13.302] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[06Sep2025 21:34:24.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Teleported Adonis_MB to Crystallex]
+[06Sep2025 21:34:57.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> de aqui a todo esta limpio
+[06Sep2025 21:35:06.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> puedes conseguir lo que quieras
+[06Sep2025 21:35:09.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> aqio no sale netherite
+[06Sep2025 21:35:16.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> pero gracias por el loot
+[06Sep2025 21:35:21.478] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[06Sep2025 21:35:45.842] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[06Sep2025 21:35:49.543] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[06Sep2025 21:35:54.196] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[06Sep2025 21:36:05.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> yo si consegui bastante eh
+[06Sep2025 21:36:14.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> donde?
+[06Sep2025 21:36:23.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> por aqui
+[06Sep2025 21:36:29.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> te tepare
+[06Sep2025 21:36:40.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to 276.500000, 32.500000, 308.500000]
+[06Sep2025 21:36:54.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Adonis_MB to Crystallex]
+[06Sep2025 21:36:58.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> ahi
+[06Sep2025 21:37:03.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> mmmmm
+[06Sep2025 21:37:15.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> suertwe
+[06Sep2025 21:37:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex fell out of the world
+[06Sep2025 21:37:23.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Killed Crystallex]
+[06Sep2025 21:37:26.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> ya estube aqui
+[06Sep2025 21:38:28.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> 9 y 2 bloques
+[06Sep2025 21:38:40.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> 11
+[06Sep2025 21:41:33.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Set own game mode to Spectator Mode]
+[06Sep2025 21:41:40.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> cuanto necesitamos?
+[06Sep2025 21:43:35.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Set own game mode to Survival Mode]
+[06Sep2025 21:44:03.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> sabes donde hay bambu?
+[06Sep2025 21:44:07.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex moved too quickly! 6.865573437570333,0.8637455763102224,-11.48537334115099
+[06Sep2025 21:44:10.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex moved too quickly! 18.789136186589758,1.2032580222340101,-19.588189783731195
+[06Sep2025 21:44:13.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Adonis_MB moved wrongly!
+[06Sep2025 21:44:31.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> solo jungla o consuerte en algun cofre random
+[06Sep2025 21:44:36.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Gave 2 [Bamboo] to Crystallex]
+[06Sep2025 21:44:50.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex has made the advancement [Welcome To The Jungle]
+[06Sep2025 21:46:29.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Set own game mode to Creative Mode]
+[06Sep2025 21:46:42.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Set own game mode to Survival Mode]
+[06Sep2025 21:46:50.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex has made the advancement [The Mirror Of The Soul]
+[06Sep2025 21:47:20.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Gave 1 [Heart of the Sea] to Crystallex]
+[06Sep2025 21:47:56.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> cada dia andas perdiendo mi respetos
+[06Sep2025 21:48:25.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> ajajsjsjjss
+[06Sep2025 21:48:38.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> no voy a buscar un corazon de mar
+[06Sep2025 21:48:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> y de netas?
+[06Sep2025 21:49:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> hcie la mayoria de ojos
+[06Sep2025 21:49:06.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> dos o tres
+[06Sep2025 21:49:08.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> netas?
+[06Sep2025 21:49:26.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> odio el mar
+[06Sep2025 21:51:39.453] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[06Sep2025 21:51:57.263] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/chaosthedude/explorerscompass/util/CompassState
+[06Sep2025 21:51:57.265] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d01235d3: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[06Sep2025 21:51:57.315] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d01235d3: RandomSpreadSearchWorker succeeded with 343 radius, 1 samples
+[06Sep2025 21:52:01.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Set own game mode to Spectator Mode]
+[06Sep2025 21:52:06.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex has made the advancement [Jaws]
