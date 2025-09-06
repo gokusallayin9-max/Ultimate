@@ -8163,3 +8163,67 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [06Sep2025 20:29:59.470] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
 [06Sep2025 20:30:02.296] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
 [06Sep2025 20:30:22.152] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/dummmmmmy/common/DamageType
+[06Sep2025 20:31:09.276] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[06Sep2025 20:32:03.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex lost connection: Disconnected
+[06Sep2025 20:32:03.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex left the game
+[06Sep2025 20:32:03.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[06Sep2025 20:33:16.979] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 210
+[06Sep2025 20:33:16.980] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[06Sep2025 20:33:16.981] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[06Sep2025 20:33:16.982] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[06Sep2025 20:33:16.982] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[06Sep2025 20:33:16.983] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[06Sep2025 20:33:16.984] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[06Sep2025 20:33:16.984] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[06Sep2025 20:33:16.985] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[06Sep2025 20:33:16.986] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[06Sep2025 20:33:16.987] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[06Sep2025 20:33:16.987] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[06Sep2025 20:33:47.014] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[06Sep2025 20:33:49.187] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[06Sep2025 20:33:58.535] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[06Sep2025 20:33:58.618] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c471ab1
+[06Sep2025 20:33:58.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crystallex[/127.181.95.5:60245] logged in with entity id 526 at (-722.3056231910773, 56.0, -1130.3811059435998)
+[06Sep2025 20:33:58.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Crystallex
+[06Sep2025 20:33:58.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Crystallex
+[06Sep2025 20:33:58.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Crystallex
+[06Sep2025 20:33:58.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Crystallex
+[06Sep2025 20:33:58.720] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Crystallex
+[06Sep2025 20:33:58.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Crystallex
+[06Sep2025 20:33:58.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Crystallex
+[06Sep2025 20:33:58.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex joined the game
+[06Sep2025 20:33:58.824] [Server thread/INFO] [Jade/]: Syncing config to Crystallex (a0b63e2b-1e28-3536-b536-028e1b0bd7f8)
+[06Sep2025 20:33:58.837] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Crystallex...
+[06Sep2025 20:33:58.839] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Sep2025 20:33:58.839] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Crystallex
+[06Sep2025 20:37:58.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex lost connection: Disconnected
+[06Sep2025 20:37:58.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex left the game
+[06Sep2025 20:39:02.901] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 210
+[06Sep2025 20:39:02.901] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[06Sep2025 20:39:02.902] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[06Sep2025 20:39:02.903] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[06Sep2025 20:39:02.904] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[06Sep2025 20:39:02.905] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[06Sep2025 20:39:02.905] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[06Sep2025 20:39:02.906] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[06Sep2025 20:39:02.907] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[06Sep2025 20:39:02.908] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[06Sep2025 20:39:02.909] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[06Sep2025 20:39:02.909] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[06Sep2025 20:39:41.994] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[06Sep2025 20:39:43.708] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[06Sep2025 20:39:49.488] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[06Sep2025 20:39:49.562] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7dc8c268
+[06Sep2025 20:39:49.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crystallex[/127.181.95.5:35937] logged in with entity id 1027 at (-722.3056231910773, 56.0, -1130.3811059435998)
+[06Sep2025 20:39:49.616] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Crystallex
+[06Sep2025 20:39:49.617] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Crystallex
+[06Sep2025 20:39:49.617] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Crystallex
+[06Sep2025 20:39:49.618] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Crystallex
+[06Sep2025 20:39:49.620] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Crystallex
+[06Sep2025 20:39:49.622] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Crystallex
+[06Sep2025 20:39:49.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Crystallex
+[06Sep2025 20:39:49.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex joined the game
+[06Sep2025 20:39:49.707] [Server thread/INFO] [Jade/]: Syncing config to Crystallex (a0b63e2b-1e28-3536-b536-028e1b0bd7f8)
+[06Sep2025 20:39:49.719] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Crystallex...
+[06Sep2025 20:39:49.719] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Sep2025 20:39:49.720] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Crystallex
