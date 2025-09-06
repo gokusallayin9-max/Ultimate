@@ -5148,6 +5148,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-09-06 22:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-07-26 23:59:53 +0000"
@@ -8449,6 +8455,8 @@
       "minecraft:dripstone_caves": "2025-07-26 18:14:34 +0000",
       "minecraft:cold_ocean": "2025-07-29 01:14:58 +0000",
       "minecraft:forest": "2025-07-26 23:55:02 +0000",
+      "minecraft:deep_cold_ocean": "2025-09-06 22:03:49 +0000",
+      "minecraft:ocean": "2025-09-06 22:01:58 +0000",
       "atmospheric:kousa_jungle": "2025-08-05 02:24:06 +0000",
       "minecraft:savanna": "2025-07-26 19:12:49 +0000",
       "minecraft:plains": "2025-07-26 19:12:46 +0000"
@@ -8802,6 +8810,7 @@
     "criteria": {
       "incendium:ash_barrens": "2025-07-27 01:25:12 +0000",
       "incendium:quartz_flats": "2025-09-06 21:07:37 +0000",
+      "incendium:inverted_forest": "2025-09-06 22:06:59 +0000",
       "incendium:toxic_heap": "2025-07-27 01:20:53 +0000",
       "incendium:withered_forest": "2025-07-27 01:11:52 +0000"
     },

@@ -8492,3 +8492,36 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [06Sep2025 22:02:14.343] [Worker-Main529/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [06Sep2025 22:02:14.343] [Worker-Main529/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [06Sep2025 22:02:14.343] [Worker-Main529/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Sep2025 22:02:38.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> no se no pienso en eso ya que casi nada me molesta, o solo no le doy importancia
+[06Sep2025 22:02:48.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> pero quisas otras personas si
+[06Sep2025 22:02:49.699] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/34335, l='ServerLevel[world]', x=-1274.50, y=74.00, z=-1879.50]
+[06Sep2025 22:02:50.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Set own game mode to Spectator Mode]
+[06Sep2025 22:02:58.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Set own game mode to Survival Mode]
+[06Sep2025 22:03:12.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> ven ven
+[06Sep2025 22:03:37.149] [dimthread_server_overworld/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[06Sep2025 22:03:37.149] [dimthread_server_overworld/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[06Sep2025 22:03:43.500] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/35405, l='ServerLevel[world]', x=-1277.50, y=54.00, z=-2028.50]
+[06Sep2025 22:03:50.877] [Worker-Main336/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-42, z=-299}
+[06Sep2025 22:04:09.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> no entiendo tu punto
+[06Sep2025 22:04:21.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> osea, eso no responde mi pregunta
+[06Sep2025 22:04:25.594] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[06Sep2025 22:05:01.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> encontre un templo de zombies ahogados
+[06Sep2025 22:05:03.929] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[06Sep2025 22:05:21.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to Adonis_MB]
+[06Sep2025 22:07:46.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> ni yo se, a que quiero llegar realmente
+[06Sep2025 22:08:01.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> tipo no me molesta asique no tengo nada que criticar
+[06Sep2025 22:08:20.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> y vamos ver ese templo de zombie que viste
+[06Sep2025 22:08:58.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> si no te molestara de verdad ni lo comeraras desde el principio
+[06Sep2025 22:09:03.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> y bien sigueme
+[06Sep2025 22:09:07.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex fell out of the world
+[06Sep2025 22:09:07.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Killed Crystallex]
+[06Sep2025 22:09:28.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to -1324.500000, 64.500000, -2050.500000]
+[06Sep2025 22:09:38.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Teleported Adonis_MB to Crystallex]
+[06Sep2025 22:09:46.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to -1140.500000, 63.500000, -2097.500000]
+[06Sep2025 22:09:49.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> ven
+[06Sep2025 22:10:01.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Teleported Adonis_MB to Crystallex]
+[06Sep2025 22:10:08.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adonis_MB has reached the goal [Something Unnatural]
+[06Sep2025 22:10:40.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex has reached the goal [Something Unnatural]
+[06Sep2025 22:11:39.050] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39617, l='ServerLevel[world]', x=-1118.50, y=22.00, z=-2182.50]
+[06Sep2025 22:12:02.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adonis_MB has made the advancement [Ignoring the Advices]
+[06Sep2025 22:12:43.199] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40222, l='ServerLevel[world]', x=-1111.50, y=24.00, z=-2178.50]
