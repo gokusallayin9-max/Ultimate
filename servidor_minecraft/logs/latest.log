@@ -8227,3 +8227,92 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [06Sep2025 20:39:49.719] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Crystallex...
 [06Sep2025 20:39:49.719] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [06Sep2025 20:39:49.720] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Crystallex
+[06Sep2025 20:42:35.079] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 210
+[06Sep2025 20:42:35.089] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[06Sep2025 20:42:35.127] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[06Sep2025 20:42:35.179] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[06Sep2025 20:42:35.226] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[06Sep2025 20:42:35.275] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[06Sep2025 20:42:35.329] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[06Sep2025 20:42:35.378] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[06Sep2025 20:42:35.426] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[06Sep2025 20:42:35.485] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[06Sep2025 20:42:35.530] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[06Sep2025 20:42:35.578] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[06Sep2025 20:42:41.316] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[06Sep2025 20:42:41.342] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[06Sep2025 20:42:41.367] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[06Sep2025 20:42:41.477] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@8053dad
+[06Sep2025 20:42:41.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Adonis_MB[/127.136.112.136:38377] logged in with entity id 1503 at (-715.016336333448, 56.0, -1130.6443063366744)
+[06Sep2025 20:42:41.529] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Adonis_MB
+[06Sep2025 20:42:41.529] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Adonis_MB
+[06Sep2025 20:42:41.530] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Adonis_MB
+[06Sep2025 20:42:41.530] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Adonis_MB
+[06Sep2025 20:42:41.531] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Adonis_MB
+[06Sep2025 20:42:41.533] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Adonis_MB
+[06Sep2025 20:42:41.533] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Adonis_MB
+[06Sep2025 20:42:41.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adonis_MB joined the game
+[06Sep2025 20:42:41.724] [Server thread/INFO] [Jade/]: Syncing config to Adonis_MB (0c47ee53-75ea-342c-8049-2d85cd2e7875)
+[06Sep2025 20:42:41.735] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Adonis_MB...
+[06Sep2025 20:42:41.736] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Sep2025 20:42:41.737] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Adonis_MB
+[06Sep2025 20:43:31.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex lost connection: Disconnected
+[06Sep2025 20:43:31.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex left the game
+[06Sep2025 20:44:13.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Crystallex a server operator
+[06Sep2025 20:44:13.790] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 210
+[06Sep2025 20:44:13.837] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[06Sep2025 20:44:13.889] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[06Sep2025 20:44:13.939] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[06Sep2025 20:44:13.989] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[06Sep2025 20:44:14.039] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[06Sep2025 20:44:14.089] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[06Sep2025 20:44:14.138] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[06Sep2025 20:44:14.188] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[06Sep2025 20:44:14.238] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[06Sep2025 20:44:14.287] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[06Sep2025 20:44:14.336] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[06Sep2025 20:44:15.477] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[06Sep2025 20:44:15.578] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[06Sep2025 20:44:15.683] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[06Sep2025 20:44:15.768] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@791848ff
+[06Sep2025 20:44:15.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crystallex[/127.181.95.5:60435] logged in with entity id 1543 at (-722.3056231910773, 56.0, -1130.3811059435998)
+[06Sep2025 20:44:15.828] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Crystallex
+[06Sep2025 20:44:15.829] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Crystallex
+[06Sep2025 20:44:15.829] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Crystallex
+[06Sep2025 20:44:15.830] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Crystallex
+[06Sep2025 20:44:15.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Crystallex
+[06Sep2025 20:44:15.833] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Crystallex
+[06Sep2025 20:44:15.834] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Crystallex
+[06Sep2025 20:44:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex joined the game
+[06Sep2025 20:44:15.973] [Server thread/INFO] [Jade/]: Syncing config to Crystallex (a0b63e2b-1e28-3536-b536-028e1b0bd7f8)
+[06Sep2025 20:44:15.980] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Crystallex...
+[06Sep2025 20:44:15.981] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Sep2025 20:44:15.981] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Crystallex
+[06Sep2025 20:44:59.857] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[06Sep2025 20:45:07.900] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[06Sep2025 20:45:22.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex moved too quickly! 5.278122935413194,19.95241140311535,1.8532889583045744
+[06Sep2025 20:45:29.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex moved too quickly! 2.033294922161417,19.950340456902516,0.09051213516363532
+[06Sep2025 20:45:32.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex moved too quickly! 2.288290911833201,19.950430352396054,0.1196755212458811
+[06Sep2025 20:45:37.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex moved too quickly! 4.194998694965534,17.613293069960854,2.6928222776782604
+[06Sep2025 20:45:48.900] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[06Sep2025 20:46:01.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex moved too quickly! 5.568986840865136,20.95255534525151,-2.1875442490306796
+[06Sep2025 20:46:31.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex moved too quickly! 5.151995267202437,20.14553296977462,1.540257720229647
+[06Sep2025 20:46:46.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex moved too quickly! 5.664678804248069,19.998066444837804,1.6133727647550131
+[06Sep2025 20:47:01.228] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[06Sep2025 20:47:01.231] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[06Sep2025 20:47:01.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> va bien
+[06Sep2025 20:47:06.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> muy bien xd
+[06Sep2025 20:47:50.015] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[06Sep2025 20:47:50.017] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[06Sep2025 20:47:50.019] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex was pummeled by Adonis_MB
+[06Sep2025 20:47:59.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> ay
+[06Sep2025 20:48:10.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> existe el pvp
+[06Sep2025 20:48:45.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> joder pense q lo quite
+[06Sep2025 20:48:51.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> xsddd
+[06Sep2025 20:49:16.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adonis_MB was slain by Crystallex
+[06Sep2025 20:49:16.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex was killed trying to hurt Adonis_MB
+[06Sep2025 20:49:22.960] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex was pummeled by Adonis_MB
+[06Sep2025 20:49:35.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> a buscar netherire para el arco jovencita
+[06Sep2025 20:49:41.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> dale
+[06Sep2025 20:49:44.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> es tu laburp
+[06Sep2025 20:49:54.497] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tom/storagemod/gui/StorageTerminalMenu$SlotAction
