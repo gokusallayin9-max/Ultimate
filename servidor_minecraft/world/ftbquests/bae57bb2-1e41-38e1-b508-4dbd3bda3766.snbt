@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "bae57bb21e4138e1b5084dbd3bda3766"
+	name: "LILJHONNY360"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1753253505386L
+		6F010E22CD886969: 1753253505386L
+		0000000000000001: 1753253505386L
+		744084D7C7EA8A6C: 1753253505386L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1753253505386L
+		6F010E22CD886969: 1753253505386L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

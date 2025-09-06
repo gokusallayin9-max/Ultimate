@@ -1,0 +1,38 @@
+{
+	id: "0497651d-fe72-41b8-9fb7-0478f2fdf0e5"
+	type: "party"
+	owner: "0c47ee53-75ea-342c-8049-2d85cd2e7875"
+	ranks: {
+		0c47ee53-75ea-342c-8049-2d85cd2e7875: "owner"
+		a0b63e2b-1e28-3536-b536-028e1b0bd7f8: "officer"
+		bae57bb2-1e41-38e1-b508-4dbd3bda3766: "officer"
+	}
+	properties: {
+		"ftbteams:display_name": "Poyo┗|｀O′|┛"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8059FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1753254122845L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Adonis_MB\"}]}" }
+		{ from: "0c47ee53-75ea-342c-8049-2d85cd2e7875", date: 1753254122919L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"LILJHONNY360\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1753254126392L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"LILJHONNY360\"}]}" }
+		{ from: "0c47ee53-75ea-342c-8049-2d85cd2e7875", date: 1753570670205L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"LILJHONNY360\"}]}" }
+		{ from: "0c47ee53-75ea-342c-8049-2d85cd2e7875", date: 1753570677543L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Crystallex\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1753570682025L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Crystallex\"}]}" }
+		{ from: "0c47ee53-75ea-342c-8049-2d85cd2e7875", date: 1753570685387L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"Crystallex\"}]}" }
+	]
+	extra: { }
+}
