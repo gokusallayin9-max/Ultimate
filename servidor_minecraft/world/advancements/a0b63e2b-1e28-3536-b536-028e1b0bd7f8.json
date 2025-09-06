@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "dungeons_plus:adventure/find_warped_garden": {
+    "criteria": {
+      "in_structure": "2025-09-06 22:10:40 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_sunrise": {
     "criteria": {
       "has_journal": "2025-07-26 17:57:36 +0000"
@@ -2249,6 +2255,12 @@
       "enchanted_item": "2025-08-05 02:50:31 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-09-06 22:17:04 +0000"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
@@ -8376,6 +8388,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2025-07-27 00:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-09-06 22:10:33 +0000"
     },
     "done": true
   },

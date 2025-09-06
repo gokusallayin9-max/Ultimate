@@ -2410,26 +2410,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2025-09-06 22:10:21 +0000",
-      "!bit14": "2025-09-06 22:10:21 +0000",
-      "!bit11": "2025-09-06 22:10:21 +0000",
-      "!bit12": "2025-09-06 22:10:21 +0000",
-      "!bit10": "2025-09-06 22:10:21 +0000",
-      "!bit9": "2025-09-06 22:10:21 +0000",
-      "!bit8": "2025-09-06 22:10:21 +0000",
-      "!bit7": "2025-09-06 22:10:21 +0000",
-      "!bit6": "2025-09-06 22:10:21 +0000",
-      "!bit5": "2025-09-06 22:10:21 +0000",
-      "!bit4": "2025-09-06 22:10:21 +0000",
-      "!bit3": "2025-09-06 22:10:21 +0000",
-      "!bit2": "2025-09-06 22:10:21 +0000",
-      "!bit1": "2025-09-06 22:10:21 +0000",
-      "!bit0": "2025-09-06 22:10:21 +0000"
-    },
-    "done": false
-  },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-07-27 00:18:38 +0000"
@@ -5163,6 +5143,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/unholy_grail": {
+    "criteria": {
+      "spellstone": "2025-09-06 22:12:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-08-05 02:10:38 +0000"
@@ -6775,6 +6761,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-07-27 00:14:13 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/unholy_grail": {
+    "criteria": {
+      "has_items": "2025-09-06 22:11:17 +0000"
     },
     "done": true
   },
