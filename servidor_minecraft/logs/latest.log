@@ -8316,3 +8316,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [06Sep2025 20:49:41.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> dale
 [06Sep2025 20:49:44.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> es tu laburp
 [06Sep2025 20:49:54.497] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tom/storagemod/gui/StorageTerminalMenu$SlotAction
+[06Sep2025 20:50:58.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> perdi los puntos de los waypoins
+[06Sep2025 20:53:39.664] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[06Sep2025 20:53:56.510] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[06Sep2025 20:53:58.604] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[06Sep2025 20:53:58.605] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[06Sep2025 20:53:58.608] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[06Sep2025 20:53:58.655] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/PlayState
+[06Sep2025 20:54:27.485] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[06Sep2025 20:55:31.262] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[06Sep2025 20:56:09.556] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[06Sep2025 20:56:09.557] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[06Sep2025 20:56:24.701] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[06Sep2025 20:56:45.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> ten farmea tridentes
+[06Sep2025 20:56:58.297] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[06Sep2025 20:56:58.300] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/deposit/DepositFilterType
+[06Sep2025 20:56:58.306] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[06Sep2025 20:57:11.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> wstoy lleno a la 00
+[06Sep2025 20:57:37.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> es que hice un tridente perfecto bueno casi pero aja
+[06Sep2025 20:57:43.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> solo me falta empalamiento
+[06Sep2025 20:57:55.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> bsucalop
+[06Sep2025 20:58:46.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> ya estoya qui
+[06Sep2025 20:59:01.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Teleported Adonis_MB to Crystallex]
+[06Sep2025 20:59:43.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> las copias no las botes metela en esta mochila
+[06Sep2025 20:59:53.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> pero
+[06Sep2025 21:00:11.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> para que tantos tridentes
+[06Sep2025 21:00:20.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> para farmear al romperlos
+[06Sep2025 21:00:48.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> ya que son legendarios y al romperlos me dan esencias legendarias para mejorar mas cosas
+[06Sep2025 21:00:49.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> que

@@ -2171,12 +2171,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-09-06 20:49:28 +0000"
-    },
-    "done": false
-  },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-07-26 22:53:24 +0000"
