@@ -8540,3 +8540,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [06Sep2025 22:21:40.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crystallex: Teleported Crystallex to -400.500000, 33.500000, -1484.500000]
 [06Sep2025 22:22:23.560] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
 [06Sep2025 22:23:05.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> hay que ir a una mina
+[06Sep2025 22:23:26.458] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[06Sep2025 22:23:34.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Teleported Adonis_MB to Crystallex]
+[06Sep2025 22:23:49.458] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex was pummeled by Adonis_MB
+[06Sep2025 22:23:54.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> perdon
+[06Sep2025 22:23:57.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> ....
+[06Sep2025 22:24:00.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adonis_MB> ya me lo quito
+[06Sep2025 22:24:02.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crystallex> ya me voy
+[06Sep2025 22:24:04.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crystallex lost connection: Disconnected
+[06Sep2025 22:24:04.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crystallex left the game
+[06Sep2025 22:26:41.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Teleported Adonis_MB to -402.500000, 22.500000, -1661.500000]
+[06Sep2025 22:26:41.152] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
