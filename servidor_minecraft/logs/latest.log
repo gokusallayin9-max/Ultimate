@@ -88,3 +88,16 @@
 [07Sep2025 00:24:35.108] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
 [07Sep2025 00:36:11.590] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [07Sep2025 00:36:11.590] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md5dbc5e$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[07Sep2025 00:39:58.886] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[07Sep2025 00:39:59.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[07Sep2025 00:40:22.611] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting alexthw/ars_elemental/common/entity/MermaidEntity$Variants
+[07Sep2025 00:40:27.309] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/PlayState
+[07Sep2025 00:41:54.248] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[07Sep2025 00:41:54.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Teleported Adonis_MB to -976.500000, 73.500000, -2077.500000]
+[07Sep2025 00:41:58.279] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[07Sep2025 00:42:02.671] [Worker-Main232/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[07Sep2025 00:42:02.672] [Worker-Main232/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[07Sep2025 00:42:07.835] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[07Sep2025 00:43:13.683] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[07Sep2025 00:45:17.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Adonis_MB: Teleported Adonis_MB to -715.500000, 56.500000, -1132.500000]
+[07Sep2025 00:45:17.581] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-723, y=56, z=-1131} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
