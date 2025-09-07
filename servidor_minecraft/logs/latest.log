@@ -86,3 +86,5 @@
 [07Sep2025 00:06:15.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adonis_MB has made the advancement [Welcome To The Jungle]
 [07Sep2025 00:06:25.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adonis_MB has made the advancement [The Mirror Of The Soul]
 [07Sep2025 00:24:35.108] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[07Sep2025 00:36:11.590] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[07Sep2025 00:36:11.590] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md5dbc5e$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks

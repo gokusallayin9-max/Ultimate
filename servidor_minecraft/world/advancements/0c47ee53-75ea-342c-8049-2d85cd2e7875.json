@@ -8107,6 +8107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_the_recipe": "2025-09-07 00:30:06 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-24 00:10:37 +0000"
