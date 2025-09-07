@@ -107,3 +107,40 @@
 [07Sep2025 00:59:10.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [07Sep2025 00:59:10.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
 [07Sep2025 01:18:05.660] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[07Sep2025 02:35:45.763] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[07Sep2025 02:35:45.764] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[07Sep2025 02:37:32.965] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/dummmmmmy/common/DamageType
+[07Sep2025 02:37:51.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Adonis_MB lost connection: Disconnected
+[07Sep2025 02:37:51.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adonis_MB left the game
+[07Sep2025 02:38:03.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Sep2025 02:38:03.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gola<--[HERE]
+[07Sep2025 02:38:59.724] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 210
+[07Sep2025 02:38:59.729] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[07Sep2025 02:38:59.778] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[07Sep2025 02:38:59.949] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[07Sep2025 02:38:59.954] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[07Sep2025 02:38:59.954] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[07Sep2025 02:39:00.000] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[07Sep2025 02:39:00.028] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[07Sep2025 02:39:00.080] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[07Sep2025 02:39:00.129] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[07Sep2025 02:39:00.181] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[07Sep2025 02:39:00.231] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[07Sep2025 02:39:05.936] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[07Sep2025 02:39:06.017] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[07Sep2025 02:39:10.057] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[07Sep2025 02:39:10.125] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57f434d7
+[07Sep2025 02:39:10.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Adonis_MB[/127.136.112.136:33763] logged in with entity id 8269 at (-709.2220503377014, 63.0, -1120.4365743307058)
+[07Sep2025 02:39:10.172] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Adonis_MB
+[07Sep2025 02:39:10.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Adonis_MB
+[07Sep2025 02:39:10.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Adonis_MB
+[07Sep2025 02:39:10.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Adonis_MB
+[07Sep2025 02:39:10.175] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Adonis_MB
+[07Sep2025 02:39:10.176] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Adonis_MB
+[07Sep2025 02:39:10.176] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Adonis_MB
+[07Sep2025 02:39:10.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adonis_MB joined the game
+[07Sep2025 02:39:10.276] [Server thread/INFO] [Jade/]: Syncing config to Adonis_MB (0c47ee53-75ea-342c-8049-2d85cd2e7875)
+[07Sep2025 02:39:10.288] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Adonis_MB...
+[07Sep2025 02:39:10.288] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[07Sep2025 02:39:10.289] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Adonis_MB
+[07Sep2025 02:39:10.545] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-723, y=56, z=-1131} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
