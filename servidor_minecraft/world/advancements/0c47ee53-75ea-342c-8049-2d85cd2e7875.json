@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/celestisynth.celestisynth_tab/lunar_scrap_smelting": {
+    "criteria": {
+      "has_item": "2025-09-07 00:04:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-07-26 23:43:25 +0000"
@@ -872,6 +878,12 @@
   "twilightforest:magic_map": {
     "criteria": {
       "magic_map": "2025-08-05 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-09-07 00:06:15 +0000"
     },
     "done": true
   },
@@ -1738,6 +1750,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/celestisynth.celestisynth_tab/crescentia": {
+    "criteria": {
+      "has_item": "2025-09-07 00:04:51 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2025-07-23 06:42:38 +0000"
@@ -2310,6 +2328,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-09-01 17:13:32 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/celestisynth.celestisynth_tab/lunar_scrap_blasting": {
+    "criteria": {
+      "has_item": "2025-09-07 00:04:51 +0000"
     },
     "done": true
   },
@@ -9282,6 +9306,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-07-27 00:37:07 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/undead_eye": {
+    "criteria": {
+      "undead_eye": "2025-09-07 00:06:25 +0000"
     },
     "done": true
   },
